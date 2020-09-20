@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "WhatsApp Audio Speed Changer",
     "version": "1.0.0",
-    "description": "Simple extension that enables WhatsApp Web users to play audio at different playback rates.",
+    "description": "Simple extension that enables WhatsApp Web users to play audio at 2x playback rates.",
     "content_scripts": [
         {
             "matches": ["https://web.whatsapp.com/"],
