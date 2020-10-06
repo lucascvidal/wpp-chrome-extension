@@ -10,4 +10,9 @@ This is a simple Google Chrome extension that enables WhatsApp Web users to play
 
 ## Usage
 
-Visit https://web.whatsapp.com and click on the 2x button to the side of the MORE OPTIONS (three vertical dots) button. That's it.
+Visit https://web.whatsapp.com, authenticate and then click on the 2x button to the side of the MORE OPTIONS (three vertical dots) button. That's it.
+
+# What I Learned
+
+I had never developed a Google Chrome extension before, so this was my first time doing so. I learned how to structure a manifest file, how to manipulate audio playback rates and how to load an unpacked extension into Google Chrome.
+
